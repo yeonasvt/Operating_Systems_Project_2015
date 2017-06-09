@@ -1,5 +1,6 @@
 # Operating_Systems_Project_2015
 Final Project for Operating Systems class in Fall 2015
+
 Tory Yeonas and Ross Harmon
 
 Objectives:
@@ -13,7 +14,7 @@ the monitor and restarted by a deployment manager. Finally, we will maintain a l
 information. This project will be written in C/C++
 
 Project Components:
-Out project contains four different executables that will be used to accomplish our goals. These are for the Launcher, Deployment Manager, Fault Injector, and the Target Process. Launcher will be called from the terminal,  
+Our project contains four different executables that will be used to accomplish our goals. These are for the Launcher, Deployment Manager, Fault Injector, and the Target Process. Launcher will be called from the terminal,  
 
 Target Process – Program to inject fault to (prog1.c)
 Fault injection program (fi.cpp)
